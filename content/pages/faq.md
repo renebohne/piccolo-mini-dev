@@ -23,7 +23,7 @@ sections:
         answer: >
           Du kannst alle ungetragenen Kleidungsstücke innerhalb der gesetzlichen
           Fristen an uns zurück schicken und kriegst umgehend Dein Geld zurück. 
-      - question: How do you handle sensitive customer information?
+      - question: Sind meine Kundendaten bei piccolo-mini sicher?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
           am I right? Make sure you’re as transparent as possible with your data
