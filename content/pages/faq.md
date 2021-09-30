@@ -34,13 +34,6 @@ sections:
           natürlich auch Daten an unsere Logistikpartner übertragen. Insgesamt
           keine große Sache, aber wir müssen auf das Thema hinweisen und stehen
           für weitere Fragen gerne per E-Maill zur Verfügung.
-  - type: contact_section
-    image: images/promo.jpg
-    section_id: contact_section
-    address: Nina Gern
-    phone: +1-202-555-0112
-    email: info@piccolo-mini.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
   description: This is the faq page
