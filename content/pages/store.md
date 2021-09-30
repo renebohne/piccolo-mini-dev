@@ -11,7 +11,6 @@ sections:
     featured_products:
       - content/pages/products/plant1.md
       - content/pages/products/plant3.md
-      - content/pages/products/plant5.md
       - content/pages/products/plant7.md
 seo:
   title: Store
