@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Plants from Europe
+      value: T-Shirts
       keyName: property
     - name: 'og:description'
       value: This is the store page
