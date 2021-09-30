@@ -38,7 +38,7 @@ sections:
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
-      title: Discover
+      title: Entdecken
       url: /store
       style: secondary
       arrow: true
