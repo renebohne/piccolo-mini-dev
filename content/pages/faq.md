@@ -19,7 +19,7 @@ sections:
           ist, kommt sie in der Regel innerhalb von 3 Werktagen bei euch an. Die
           meisten Sachen werden jedoch erst nach der Bestellung fertiggestellt.
           Dann kann es zu Lieferzeiten bis zu 4 Wochen kommen.
-      - question: How do refunds and returns work?
+      - question: Kann ich Kleidungsstücke zurückgeben?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
           *someone*. Again, tell it like it is:
