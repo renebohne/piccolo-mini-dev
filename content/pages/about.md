@@ -26,7 +26,7 @@ sections:
           schöner, wenn unsere Kinder so gekleidet sind, dass wir neidisch auf
           ihren Look sind.
         image: images/nan_talk.jpg
-      - title: We think plants are the future
+      - title: Lokal und nachhaltig
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
