@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: Hossa Hossa
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/hose1.jpeg
 default_original_image: images/hose1.jpeg
