@@ -10,7 +10,9 @@ sections:
     subtitle: >
       Nach der Geburt von unserem Sohn waren wir auf der Suche nach schönen
       Klamotten für ihn. Sie sollten nicht nur schön sein, sondern auch
-      nachhaltig und modern und am liebsten aus Deutschland stammen. 
+      nachhaltig und modern und am liebsten aus Deutschland stammen. Obwohl wir
+      einige Anbieter gefunden haben, trag nicht jedes Stück unseren Geschmack
+      und so kamen wir schnell auf die Idee, selbst zu nähen.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
