@@ -2,7 +2,7 @@
     "title": "piccolo-mini",
     "path_prefix": "/",
     "favicon": "images/favicon.png",
-    "logo_dark": "images/logo.svg",
+    "logo_dark": "images/piccolomini_logo_weisseBox_300dpi.png",
     "logo_light": "images/piccolomini_logo_weisseBox_300dpi.png",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
