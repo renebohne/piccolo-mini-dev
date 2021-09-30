@@ -17,15 +17,14 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: Moderne Mode
-        description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+        description: >
+          Blumen, Elefanten, Eulen, Raketen... das sind alles schöne Motive und
+          man findet viele Kleidungsstücke für Kinder in diesem Stil. Man sieht
+          auf den ersten Blick, dass es Mode für Kinder ist. Erwachsene würden
+          sowas nicht anziehen. Wieso muss es diesen Unterschied geben? Wir
+          haben zwar nichts gegen typische Babyklamotten, aber finden es noch
+          schöner, wenn unsere Kinder so gekleidet sind, dass wir neidisch auf
+          ihren Look sind.
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
