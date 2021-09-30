@@ -34,7 +34,7 @@ sections:
     title: piccolo-mini
   - type: promotion_section
     section_id: promotion_section
-    title: Zukunft gestalten mit Mode
+    title: Zukunft gestalten mit Kindermode
     image: images/Untitled design (3).png
     background_image: images/leaf.svg
     cta:
