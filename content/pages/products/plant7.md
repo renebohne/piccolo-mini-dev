@@ -2,7 +2,6 @@
 layout: product
 id: '7'
 price: '18.90'
-title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/pu2.jpeg
 default_original_image: images/pu2.jpeg
