@@ -42,7 +42,7 @@ sections:
     image: images/Untitled design (3).png
     background_image: /images/leaf.svg
     cta:
-      title: Discover
+      title: Entdecken
       url: /store
       style: primary
       arrow: true
