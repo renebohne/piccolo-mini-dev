@@ -7,9 +7,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Häufige Fragen
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: >
+      Hier sammeln wir für euch die häufigsten Fragen. Wenn trotzdem etwas
+      unklar ist, schreibt gerne an info@piccolo-mini.com
   - type: faq_section
     section_id: faq_section
     questions:
