@@ -6,7 +6,7 @@ description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/pu2.jpeg
 default_original_image: images/pu2.jpeg
 order: 7
-category: content/pages/category/bigplants.md
+category: content/pages/category/pullover.md
 seo:
   title: Sed consectetur
   description: Fusce sed tortor id diam rhoncus accumsan
