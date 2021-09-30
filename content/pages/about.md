@@ -30,9 +30,9 @@ sections:
         description: >
           Als wir uns auf die Suche nach passenden Stoffen gemacht haben, war
           nicht immer klar, wo das Material herkommt, wie es verarbeitet wurde,
-          welche Schadstoffe enthalten sind und wie haltbar sie sind. Nach
-          langer Recherche haben wir Lieferanten gefunden, die beste Qualität
-          aus Deutschland liefern und wir verarbeiten das Material in unserem
+          welche Schadstoffe enthalten sind und wie haltbar es ist. Nach langer
+          Recherche haben wir Lieferanten gefunden, die beste Qualität aus
+          Deutschland liefern und wir verarbeiten das Material in unserem
           Hobbyzimmer - stets mit dem Anspruch, dass wir die Sachen selbst
           kaufen würden.
         image: images/Untitled design (2).png
