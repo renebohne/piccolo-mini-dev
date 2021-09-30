@@ -14,14 +14,11 @@ sections:
     section_id: faq_section
     questions:
       - question: Wie lange dauert der Versand?
-        answer: >-
-          Now that’s a frequent one all right, ain’t it? Your answer to this
-          should *manage customer expectations*. Just like [a good checkout
-          flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-            - US shipping will take between 3 to 5 business days.
-            - International shipping will take between 5 and 10 business days.
-            - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+        answer: >
+          Wir fertigen in Handarbeit in der Nähe von Berlin. Wenn Ware auf Lager
+          ist, kommt sie in der Regel innerhalb von 3 Werktagen bei euch an. Die
+          meisten Sachen werden jedoch erst nach der Bestellung fertiggestellt.
+          Dann kann es zu Lieferzeiten bis zu 4 Wochen kommen.
       - question: How do refunds and returns work?
         answer: >-
           It happens. Even the most beautiful of plants will disappoint
