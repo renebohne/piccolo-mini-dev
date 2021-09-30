@@ -16,7 +16,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: Moderne Mode
+      - title: Kindermode
         description: >
           Blumen, Elefanten, Eulen, Raketen... das sind alles schöne Motive und
           man findet viele Kleidungsstücke für Kinder in diesem Stil. Man sieht
