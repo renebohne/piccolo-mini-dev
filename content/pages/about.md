@@ -25,7 +25,7 @@ sections:
           haben zwar nichts gegen typische Babyklamotten, aber finden es noch
           schöner, wenn unsere Kinder so gekleidet sind, dass wir neidisch auf
           ihren Look sind.
-        image: images/nan_talk.jpg
+        image: images/Untitled design.png
       - title: Lokal und nachhaltig
         description: >
           Als wir uns auf die Suche nach passenden Stoffen gemacht haben, war
