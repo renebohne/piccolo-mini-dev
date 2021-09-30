@@ -13,15 +13,6 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    cta:
-      title: Discover
-      url: /store
-      style: secondary
-      arrow: true
 seo:
   title: Store
   description: This is the store page
