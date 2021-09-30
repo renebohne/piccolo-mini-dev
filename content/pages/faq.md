@@ -24,11 +24,16 @@ sections:
           Du kannst alle ungetragenen Kleidungsstücke innerhalb der gesetzlichen
           Fristen an uns zurück schicken und kriegst umgehend Dein Geld zurück. 
       - question: Sind meine Kundendaten bei piccolo-mini sicher?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
+        answer: >
+          Wir nutzen modernste Technologie, um GDPR-konform zu arbeiten. Du
+          kannst jederzeit nachfragen, welche persönliche Daten wir von Dir
+          gespeichert haben und natürlich auch Deine Daten löschen lassen.
+          Generell speichern wir nur die für den Bestellvorgang nötigen Daten
+          und geben Sie während der Auftragsabwicklung an unsere Partner wie
+          z.B. Paypal weiter, damit Du online bezahlen kannst. Wir müssen
+          natürlich auch Daten an unsere Logistikpartner übertragen. Insgesamt
+          keine große Sache, aber wir müssen auf das Thema hinweisen und stehen
+          für weitere Fragen gerne per E-Maill zur Verfügung.
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
