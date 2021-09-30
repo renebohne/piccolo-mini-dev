@@ -4,7 +4,7 @@ id: '4'
 price: '24.99'
 title: Cras molestie
 description: Maecenas pretium blandit ex id lobortis.
-default_thumbnail_image: images/plant4.jpg
+default_thumbnail_image: images/WhatsApp Image 2021-09-30 at 15.26.19.jpeg
 default_original_image: images/plant4-lg.jpg
 order: 4
 category: content/pages/category/pullover.md
