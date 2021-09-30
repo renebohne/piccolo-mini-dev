@@ -35,7 +35,7 @@ sections:
           aus Deutschland liefern und wir verarbeiten das Material in unserem
           Hobbyzimmer - stets mit dem Anspruch, dass wir die Sachen selbst
           kaufen würden.
-        image: images/team.jpg
+        image: images/Untitled design (2).png
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
