@@ -3,7 +3,7 @@ title: Mützen
 layout: category
 order: 4
 seo:
-  title: Summer plants
+  title: Mützen
   description: This is the store page
   extra:
     - name: 'og:type'
