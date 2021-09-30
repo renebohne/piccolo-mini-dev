@@ -1,5 +1,5 @@
 ---
-title: Hosen
+title: T-Shirts
 layout: category
 order: 2
 seo:
