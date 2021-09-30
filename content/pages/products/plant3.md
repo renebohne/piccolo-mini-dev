@@ -8,7 +8,7 @@ default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
-category: content/pages/category/tshirts.md
+category: content/pages/category/hosen.md
 seo:
   title: Curabitur eu tempor
   description: 'Nulla non pretium metus, vitae finibus lectus'
