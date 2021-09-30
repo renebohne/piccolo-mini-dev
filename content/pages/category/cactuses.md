@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Hosen
 layout: category
 order: 2
 seo:
