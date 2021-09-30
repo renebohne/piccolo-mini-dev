@@ -5,7 +5,7 @@ price: '150.00'
 title: Curabitur eu tempor
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/hose2.jpeg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/hose2.jpeg
 featured: true
 order: 3
 category: content/pages/category/hosen.md
