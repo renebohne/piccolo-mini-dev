@@ -3,7 +3,7 @@ title: T-Shirts
 layout: category
 order: 3
 seo:
-  title: Plants from Europe
+  title: T-Shirts
   description: This is the store page
   extra:
     - name: 'og:type'
