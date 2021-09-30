@@ -34,7 +34,7 @@ sections:
     title: piccolo-mini
   - type: promotion_section
     section_id: promotion_section
-    title: 'Zukunft gestalten mit '
+    title: Zukunft gestalten mit Mode
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
