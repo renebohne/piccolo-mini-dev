@@ -27,12 +27,14 @@ sections:
           ihren Look sind.
         image: images/nan_talk.jpg
       - title: Lokal und nachhaltig
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          Als wir uns auf die Suche nach passenden Stoffen gemacht haben, war
+          nicht immer klar, wo das Material herkommt, wie es verarbeitet wurde,
+          welche Schadstoffe enthalten sind und wie haltbar sie sind. Nach
+          langer Recherche haben wir Lieferanten gefunden, die beste Qualität
+          aus Deutschland liefern und wir verarbeiten das Material in unserem
+          Hobbyzimmer - stets mit dem Anspruch, dass wir die Sachen selbst
+          kaufen würden.
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
