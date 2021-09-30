@@ -3,7 +3,7 @@ title: Pullover
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: Pullover
   description: This is the store page
   extra:
     - name: 'og:type'
