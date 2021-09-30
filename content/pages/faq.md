@@ -20,13 +20,16 @@ sections:
           meisten Sachen werden jedoch erst nach der Bestellung fertiggestellt.
           Dann kann es zu Lieferzeiten bis zu 4 Wochen kommen.
       - question: Kann ich Kleidungsstücke zurückgeben?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
+        answer: >+
+          Du kannst alle ungetragenen Kleidungsstücke innerhalb der gesetzlichen
+          Fristen an uns zurück schicken und kriegst umgehend Dein Geld zurück.
+          Ausgenommen davon sind:
 
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+
+          *   Reduzierte Posten
+
+          *   Kleidung, die speziell auf Deine Wünsche angepasst wurde
+
       - question: How do you handle sensitive customer information?
         answer: >-
           [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
