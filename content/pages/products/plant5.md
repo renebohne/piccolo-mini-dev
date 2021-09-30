@@ -10,7 +10,7 @@ default_thumbnail_image: images/WhatsApp Image 2021-09-30 at 15.26.19.jpeg
 default_original_image: images/WhatsApp Image 2021-09-30 at 15.26.19.jpeg
 featured: true
 order: 5
-category: content/pages/category/bigplants.md
+category: content/pages/category/pullover.md
 seo:
   title: Vestibulum eget
   description: 'Donec finibus, augue in sagittis auctor, mi neque convallis arcu'
