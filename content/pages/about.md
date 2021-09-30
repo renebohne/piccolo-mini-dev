@@ -39,7 +39,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Zukunft gestalten mit Kindermode
-    image: images/promo.jpg
+    image: images/Untitled design (3).png
     background_image: /images/leaf.svg
     cta:
       title: Discover
