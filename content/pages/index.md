@@ -12,7 +12,7 @@ sections:
 
       Schöne, nachhaltige Mode für unsere Kleinsten.
     actions:
-      - title: See all items
+      - title: Alle Produkte
         url: /store
         arrow: true
         style: primary
