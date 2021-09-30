@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Knöpfling
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/hose2.jpeg
 default_original_image: images/hose2.jpeg
