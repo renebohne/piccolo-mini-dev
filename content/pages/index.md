@@ -29,7 +29,7 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - content/pages/category/bigplants.md
+      - content/pages/category/pullover.md
       - content/pages/category/europe.md
     title: piccolo-mini
   - type: promotion_section
