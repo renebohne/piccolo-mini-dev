@@ -4,7 +4,7 @@ id: '1'
 price: '49.40'
 title: Pullover Ferdinand
 description: Ein schöner Pullover.
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/Untitled design (6).png
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
