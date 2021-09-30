@@ -8,7 +8,7 @@ default_thumbnail_image: images/Untitled design (6).png
 default_original_image: images/Untitled design (6).png
 featured: true
 order: 1
-category: content/pages/category/bigplants.md
+category: content/pages/category/pullover.md
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
