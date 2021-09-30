@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '69,90'
+price: '69.90'
 title: Kleiner Tom
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
