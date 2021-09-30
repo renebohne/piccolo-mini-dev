@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Summer plants
+      value: Mützen
       keyName: property
     - name: 'og:description'
       value: This is the store page
