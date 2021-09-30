@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Plants from Europe
+      value: T-Shirts
     - name: 'twitter:description'
       value: This is the store page
     - name: 'twitter:image'
