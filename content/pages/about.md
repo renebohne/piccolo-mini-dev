@@ -38,7 +38,7 @@ sections:
         image: images/Untitled design (2).png
   - type: promotion_section
     section_id: promotion_section
-    title: Mode f
+    title: Zukunft gestelaten durch M
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
